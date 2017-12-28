@@ -1,0 +1,8 @@
+C:\Repos\Git_Demo\Gamer\Gamer\bin\Debug\Gamer.exe.config
+C:\Repos\Git_Demo\Gamer\Gamer\bin\Debug\Gamer.exe
+C:\Repos\Git_Demo\Gamer\Gamer\bin\Debug\Gamer.pdb
+C:\Repos\Git_Demo\Gamer\Gamer\bin\Debug\MonoGame.Framework.dll
+C:\Repos\Git_Demo\Gamer\Gamer\bin\Debug\MonoGame.Framework.xml
+C:\Repos\Git_Demo\Gamer\Gamer\obj\Debug\Programming Assignment1.csprojResolveAssemblyReference.cache
+C:\Repos\Git_Demo\Gamer\Gamer\obj\Debug\Gamer.exe
+C:\Repos\Git_Demo\Gamer\Gamer\obj\Debug\Gamer.pdb
